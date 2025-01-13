@@ -53025,7 +53025,7 @@ s=1
 break}j=A.Bv(t.a.a(k.a)).x
 s=(j==null?null:j.x)!=null?4:6
 break
-case 4:j=j.x
+case 4:j=j.w
 j.toString
 m=A.dh(j,0,null)
 p=8
@@ -55319,7 +55319,7 @@ s=this.x.b.a
 A.bK(r).du("/event/"+s,null,t.X)},
 HS(){var s=0,r=A.p(t.H),q=1,p,o=this,n,m,l,k,j
 var $async$HS=A.q(function(a,b){if(a===1){p=b
-s=q}while(true)switch(s){case 0:k=o.x.x.x
+s=q}while(true)switch(s){case 0:k=o.x.x.w
 k.toString
 n=A.dh(k,0,null)
 q=3
